@@ -1,0 +1,225 @@
+body, html {
+    font-family: 'Lato', sans-serif !important;
+    font-style: normal;
+}
+.d-nav-item {
+    font-size: 16px;
+    color: #888888;
+}
+.d-nav-item:hover {
+    color: #3595FC;
+}
+.d-nav-item.active {
+    font-weight: bold;
+    font-size: 16px;
+    color: #3595FC;
+}
+.Nav-btn {
+    background: #FFFFFF;
+    border: 2px solid #3595FC;
+    box-sizing: border-box;
+    border-radius: 30px;
+    color: #3595FC;
+}
+#HeroBanner {
+    height: 714px;
+    background-image: url('/assets/images/homebanner.svg');
+    background-size: 113% 106%;
+}
+.banner-title {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 51px;
+    line-height: 140%;
+    color: #001832;
+}
+.theme-btn {
+    width: 300px;
+    height: 55px;
+    background: #3595FC;
+    box-shadow: 0px 4px 30px rgba(1, 0, 253, 0.3);
+    border-radius: 30px;
+    font-weight: bold;
+}
+.theme-btn:hover {
+    width: 300px;
+    height: 55px;
+    background: #1978dd;
+    box-shadow: 0px 4px 40px rgba(1, 0, 253, 0.3);
+    border-radius: 30px;
+}
+#Second-section{
+    background-image: url('/assets/images/bg.svg');
+    height: 800px;
+    margin-top: -40px;
+}
+h2.section-title {
+
+    font-family: Lato;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+    color: #001832;
+    padding-top: 118px;
+}
+.section-title.white {
+
+    color: #ffffff;
+}
+.contains-bar:after {
+    content:"";
+    display:block;
+    width: 58px;
+    max-width:50%;
+    border-bottom: 3px solid #3595FC;
+    margin: 4px auto 0;
+}
+.contains-bar.start:after {
+    content:"";
+    width: 96px;
+    margin: 0;
+}
+.contains-bar.white:after {
+    border-bottom: 3px solid #FFFFFF;
+}
+p.desc {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.section-heading {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 35px;
+    letter-spacing: 0em;
+    color: #000;
+}
+.section-heading .sr-no{
+    color: #3595FC;
+    padding-right: 12px;
+}
+.content-card.one img {
+    height: 380px;
+}
+.section-desc{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    color: #797979;
+}
+.card4 {
+    width: 768px;
+height: 768px !important;
+}
+#Third-section-child .section-content {
+    width: 35rem;
+    margin-left: -4rem;
+}
+.tech-icon {
+    width: 94px;
+    height: 94px;
+    margin-left: 30px;
+    background: #F1F1F1;
+    border: 2px solid rgba(53, 149, 252, 0.2);
+    box-sizing: border-box;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+}
+.tech-icon img {
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 22px;
+}
+.tech-icon.two img {
+    margin-top: 14px;
+}
+.tech-icon.two img {
+    margin-top: 14px;
+}
+.slider-prev
+{
+    position: absolute;
+    left: -20px;
+    top: 68px;
+    border: 3px solid #3595FC;
+    background:#FFFFFF;
+    color: #3595FC;
+}
+.slider-next
+{
+    position: absolute;
+    right: -20px;
+    top: 68px;
+    border: 3px solid #3595FC;
+    background:#3595FC;
+    color: #FFFFFF;
+}
+#Sixth-section {
+    background-image: url('/assets/images/forth.svg');
+    height: 714px;
+    z-index: 1;
+    position: relative;
+}
+.v-nav {
+    position: absolute;
+    left: -200px;
+    margin-top: -40px;
+}
+.nav-dot {
+    margin-left: 12px;
+}
+.nav-dot span {
+    background:#3595FC !important;
+}
+.current .nav-dot {
+    border-color: #3595FC !important;
+    margin-left: 2px;
+}
+.current .nav-dot-count {
+    position: absolute;
+    left: -24px;
+    top: 4px;
+    color: #3595FC;
+}
+#Contact-section {
+    background-image: url('/assets/images/contact.svg');
+    height: 839px;
+    margin-top: -35px;
+}
+.contact-details p {
+    font-size: 20px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+}
+#Contact-section form input {
+    border-radius: 30px;
+    height: 55px;
+}
+#Contact-section form textarea {
+    border-radius: 30px;
+    height: 226px;
+}
+#Contact-section form button  {
+    height: 55px;
+    border-radius: 30px;
+    background: #281483;
+    box-shadow: 0px 4px 30px rgba(40, 20, 131, 0.3);
+}
+input, textarea, button {
+    outline: none !important;
+}
+#Footer-section {
+    background: white url('/assets/images/network.svg');
+    background-size: 140% 155%;
+    opacity: 0.7;
+}
+button.backToTop{
+   background: #3595FC;
+   position: absolute;
+   right: 0; 
+   bottom: 0;
+}

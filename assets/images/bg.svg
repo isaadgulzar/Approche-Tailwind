@@ -1,0 +1,15 @@
+<svg width="1920" height="800" viewBox="0 0 1920 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1920" height="800">
+<path d="M0 0C0 0 576.876 38.3692 947 38.8821C1327.27 39.4091 1920 0 1920 0V800C1920 800 1327.27 761.563 947 762.09C576.876 762.603 0 800 0 800V0Z" fill="#DDEDFF"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M0 0C0 0 576.876 38.3692 947 38.8821C1327.27 39.4091 1920 0 1920 0V800C1920 800 1327.27 761.563 947 762.09C576.876 762.603 0 800 0 800V0Z" fill="#DDEDFF"/>
+<circle cx="54.5" cy="788.5" r="342" stroke="#0100FD" stroke-opacity="0.1"/>
+<circle cx="55" cy="788" r="265.5" stroke="#0100FD" stroke-opacity="0.1"/>
+<circle opacity="0.2" cx="1638" cy="170" r="9" fill="#3595FC"/>
+<circle opacity="0.2" cx="777" cy="676" r="14" fill="#3595FC"/>
+<line x1="304.361" y1="313.654" x2="327.361" y2="337.654" stroke="#3595FC"/>
+<line y1="-0.5" x2="33.2415" y2="-0.5" transform="matrix(-0.691905 0.721988 0.721988 0.691905 1551 446)" stroke="#3595FC"/>
+<path d="M1542.59 688.5L1559 662.926L1575.41 688.5H1542.59Z" stroke="#3595FC" stroke-opacity="0.4"/>
+</g>
+</svg>
